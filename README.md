@@ -2,7 +2,7 @@
 
 Projeto desenvolvido por [Gabriel Gonçalves](https://www.linkedin.com/in/gabriel-goncalves-medeiros/) durante o curso de desenvolvimento de software na [Trybe](https://www.betrybe.com/).
 
-Projeto referente ao bloco 5 (JavaScript: DOM, Eventos e Storage)                                
+Projeto referente ao bloco 5 (JavaScript: DOM, Eventos e Storage)
 
 [Pull Request do projeto](https://github.com/tryber/sd-08-project-pixels-art/pull/72)
 
