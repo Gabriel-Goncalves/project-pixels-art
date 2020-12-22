@@ -4,6 +4,8 @@ Projeto desenvolvido por [Gabriel Gonçalves](https://www.linkedin.com/in/gabrie
 
 Projeto referente ao bloco 5 (JavaScript: DOM, Eventos e Storage)                                
 
+[Pull Request do projeto](https://github.com/tryber/sd-08-project-pixels-art/pull/72)
+
 # Entregáveis
 
 ## Requisitos do projeto
